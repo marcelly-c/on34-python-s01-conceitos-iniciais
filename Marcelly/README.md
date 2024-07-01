@@ -2,7 +2,8 @@
 
 #### Welcome!!! esse é o meu espaço no GitHub! Me chamo Marcelly e essa é minha apresentação um pouco leve e um pouco motivadora sobre muá:
 
-(C:\Marcelly/octocat-1717598444493.png)
+![octocat-1717598444493](https://github.com/marcelly-c/on34-python-s01-conceitos-iniciais/assets/130605971/a28cca45-fc20-4072-9ddc-24b23d8d6a34)
+
 
 ### Quem Sou 💭💻
 
